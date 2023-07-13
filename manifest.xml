@@ -4,4 +4,5 @@
   <default revision="main" remote="origin" sync-j="1" />
   <project name="api.git" path="api" />
   <project name="deploy.git" path="deploy" />
+  <project name="gitiles.git" path="gitiles" />
 </manifest>
