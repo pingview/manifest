@@ -8,4 +8,5 @@
   <project name="gitiles.git" path="gitiles" />
   <project name="raft.git" path="raft" />
   <project name="server.git" path="server" />
+  <project name="web.git" path="web" />
 </manifest>
