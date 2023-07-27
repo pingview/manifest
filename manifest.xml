@@ -6,4 +6,5 @@
   <project name="deploy.git" path="deploy" />
   <project name="desktop.git" path="desktop" />
   <project name="gitiles.git" path="gitiles" />
+  <project name="raft.git" path="raft" />
 </manifest>
