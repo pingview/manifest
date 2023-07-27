@@ -7,4 +7,5 @@
   <project name="desktop.git" path="desktop" />
   <project name="gitiles.git" path="gitiles" />
   <project name="raft.git" path="raft" />
+  <project name="server.git" path="server" />
 </manifest>
