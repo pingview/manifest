@@ -6,7 +6,7 @@
   <project name="deploy.git" path="deploy" />
   <project name="desktop.git" path="desktop" />
   <project name="gitiles.git" path="gitiles" />
-  <project name="raft.git" path="raft" />
+  <project name="replica.git" path="replica" />
   <project name="server.git" path="server" />
   <project name="web.git" path="web" />
 </manifest>
