@@ -4,7 +4,6 @@
   <default revision="main" remote="origin" sync-j="1" />
   <project name="api.git" path="api" />
   <project name="deploy.git" path="deploy" />
-  <project name="desktop.git" path="desktop" />
   <project name="gitiles.git" path="gitiles" />
   <project name="replica.git" path="replica" />
   <project name="server.git" path="server" />
